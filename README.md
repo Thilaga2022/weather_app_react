@@ -21,4 +21,4 @@ A weather update is something we all look for daily — why not pair it with som
 1. Clone this repo : https://github.com/Thilaga2022/weather_app_react.git
 2. Open `index.html` in your browser
 3. Enjoy your weather + poetry combo 🌈
-# weather_app_react
+
